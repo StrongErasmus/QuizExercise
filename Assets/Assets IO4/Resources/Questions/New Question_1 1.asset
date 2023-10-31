@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fa01be91fd310b49bab0ee43c3b6d4c, type: 3}
+  m_Name: New Question_1 1
+  m_EditorClassIdentifier: 
+  _info: Pathogenic Parasites
+  _answers:
+  - _info: Flatworms
+    _isCorrect: 0
+  - _info: Earthworms
+    _isCorrect: 0
+  - _info: Roundworms
+    _isCorrect: 1
+  _useTimer: 1
+  _timer: 30
+  _answerType: 0
+  _addScore: 20
